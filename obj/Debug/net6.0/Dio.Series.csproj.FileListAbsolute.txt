@@ -1,0 +1,15 @@
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Git\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+C:\Git\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+C:\Git\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+C:\Git\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+C:\Git\Dio.Series\bin\Debug\net6.0\ref\Dio.Series.dll
+C:\Git\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+C:\Git\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+C:\Git\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
