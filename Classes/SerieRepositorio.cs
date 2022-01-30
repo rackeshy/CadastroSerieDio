@@ -34,7 +34,7 @@ namespace Dio.Series
 
         public Serie RetornaPorId(int id)
         {
-            return listaSerie[id];
+            return listaSerie[id]; 
         }
 
     }

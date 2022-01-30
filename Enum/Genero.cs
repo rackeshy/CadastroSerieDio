@@ -15,6 +15,6 @@ namespace Dio.Series
         Musical = 10,
         Romance = 11,
         Suspense = 12,
-        Terro = 13
+        Terro = 13 
     }
 }

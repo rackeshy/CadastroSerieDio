@@ -14,7 +14,7 @@ namespace Dio.Series
                 switch (opcaoUsuario)
                 {
                     case "1":
-                    ListarSeries();
+                    ListarSeries(); 
                     break;
                     case "2":
                     InserirSerie();

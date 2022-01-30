@@ -36,7 +36,7 @@ namespace Dio.Series
 
         public string retornaTitulo()
         {
-            return this.Titulo;
+            return this.Titulo; 
         }
 
         public int retonraId()
@@ -52,6 +52,7 @@ namespace Dio.Series
         public void Excluir()
         {
             this.Excluido = true;
+            
         }
     }
 }
